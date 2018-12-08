@@ -1,0 +1,208 @@
+act,session,name,class,rating
+Dance,Session 1,Bhavani,5,3
+Dance,Session 1,Huligavya,5,2.9
+Dance,Session 1,Kavya,5,3.1
+Public speaking,Session 1,Ramya  R,7,4.2
+Dance,Session 1,Pooja7,7,3
+Dance,Session 1,Mehak,6,4.2
+Dance,Session 1,Karunya,6,3.8
+Dance,Session 1,Niveda,6,4.2
+Dance,Session 1,Divya,6,4.2
+Dance,Session 1,Gangamma ,6,3.5
+Dance,Session 1,Prajwal,5,2.8
+Dance,Session 1,Shashi Kumar,8,4.8
+Dance,Session 1,Reshma,5,4
+Dance,Session 1,Sanjana,7,3.5
+Dance,Session 1,Saritha,7,4.1
+Dance,Session 1,Hanifa,7,4
+Dance,Session 1,Shreya K,6,4
+Dance,Session 1,Sham S,8,4.4
+Dance,Session 1,Ramya M,8,4.2
+Dance,Session 1,Harshitha,7,4.1
+Computer,Session 1,Riya,5th,2
+Computer,Session 1,Husna R,7,1
+Computer,Session 1,Tamanna,7,3
+Computer,Session 1,Baratha Gowda,5,4
+Computer,Session 1,Chandru,5,3
+Computer,Session 1,Shivu,5,3.8
+Computer,Session 1,Sandhya5,5,3.2
+Computer,Session 1,Meesala Shruti,5,3.1
+Computer,Session 1,Akshaya reddy,5,4.1
+Dance,Session 1,Stephen Raj,7,5
+Dance,Session 2,Suhail,5,5
+Dance,Session 2,Nisha,7,4.1
+Dance,Session 2,Indhu,8,5
+Dance,Session 2,Kabitha,8,5
+Dance,Session 2,Madhumitha,8,4.5
+Dance,Session 2,Nuhira,8,4.2
+Dance,Session 2,Sania,8,4.1
+Dance,Session 2,Anitha,5,4.2
+Dance,Session 2,Pruthvi,5,4.2
+Dance,Session 2,Riya,5,4.2
+Dance,Session 2,Veena B,5,4.5
+Dance,Session 2,Mahesh,5,3.7
+Dance,Session 2,Gangadhar,6,4.1
+Dance,Session 2,Chandru,5,3.8
+Computer,Session 2,Ramya,5,4.1
+Computer,Session 2,Sinchana,5th,3.1
+Computer,Session 2,Indresh,5th,2
+Computer,Session 2,Bhavani,5,3.3
+Computer,Session 2,Deepa R,8,3.6
+Computer,Session 2,Punit,7,2.4
+Computer,Session 2,Vikas kumar,5th,3.1
+Computer,Session 2,Reshma A,5,3.2
+Computer,Session 2,Leena,5,3.6
+Computer,Session 2,Huligavya,5,3.2
+Computer,Session 2,Karunya,6,4.1
+Computer,Session 3,Sindhu,6,3.9
+Dance,Session 3,Baratha Gowda,5,4.2
+Dance,Session 3,Devi,5,3.8
+Dance,Session 3,Eeshwari,5,3.9
+Dance,Session 3,Gowri K,5,4
+Dance,Session 3,Rameez,5,4.8
+Dance,Session 3,Sinchana,5,3.8
+Dance,Session 3,Vijay M,5,3.2
+Dance,Session 3,Tasmiya R ,6,3.9
+Dance,Session 3,Vidya B,6,3
+Dance,Session 3,Archana,7,4
+Dance,Session 3,Daneil,7,4.3
+Dance,Session 3,Husna R,7,2.8
+Dance,Session 3,Deluwer Hossain ,8,4.9
+Dance,Session 3,Robin,7,4.2
+Dance,Session 3,Tasmiya R ,8,3
+Dance,Session 3,Jayshree,8,2.5
+Dance,Session 3,Ismail,8,4.2
+Dance,Session 3,Sarath Kumar,7,4.5
+Art and Craft,Session 3,Niteesh,7,5
+Art and Craft,Session 3,Nuhira,8,5
+Dance,Session 3,Akshaya reddy,5,4.1
+Art and Craft,Session 3,Ajay,5,5
+Dance,Session 3,Pooja5,5,4.1
+Dance,Session 3,Sandhya5,5,4.1
+Art and Craft,Session 3,Shashi Kumar,8,4.9
+Art and Craft,Session 3,Prajwal,5,4.8
+Art and Craft,Session 3,Mohammed Saif,8,4.5
+Art and Craft,Session 3,Kavya,5,3
+Art and Craft,Session 3,Ramya,5,2.8
+Art and Craft,Session 3,Annamalai,8,3.5
+Dance,Session 3,Sandhya Rani,7,2.9
+Art and Craft,Session 3,Deepa R,8,3.5
+Dance,Session 3,Jamuna,7,4
+Dance,Session 3,Pooja5,5,4.1
+Art and Craft,Session 3,Shreya K,6,3
+Dance,Session 3,Ranjith Kumar,5,3
+Dance,Session 3,Vikas kumar,5,3
+Drama,Session 2,Baratha Gowda,5,4
+Dance,Session 3,Indumathi,7,3.9
+Drama,Session 2,Devi,5,4
+Drama,Session 2,Kavya,5,5
+Drama,Session 2,Prajwal,5,5
+Drama,Session 2,Sandhya5,5,5
+Drama,Session 2,Vijay M,5,4
+Drama,Session 2,Sandhya V,7,4
+Drama,Session 2,Shaahi,8,5
+Drama,Session 3,Huligavya,5,5
+Drama,Session 3,Leena,5,5
+Drama,Session 3,Riya,5,5
+Drama,Session 3,Hanifa,7,4
+Computer,Session 3,Indumathi,8,5
+Computer,Session 3,Madhumitha,8th,4.5
+Computer,Session 3,Kabitha,8th,5
+Singing,Session 1,Suhail,5,3
+Singing,Session 1,Gangadhar,6,5
+Singing,Session 1,Deulwar,8,5
+Singing,Session 1,Indhu,8,5
+Singing,Session 1,Kabitha,8,3
+Computer,Session 3,Ramya,8th,3.8
+Singing,Session 1,Madhumitha,8,4
+Computer,Session 3,Tabhita,5th,2
+Computer,Session 3,Sanjana,7th,3.2
+Singing,Session 1,Sanya,8,4
+Computer,Session 3,Pooja7,7,2.8
+Computer,Session 3,Veena B,5,3
+Computer,Session 3,Nethravati Y,7th,2.3
+Computer,Session 3,Mohammed zahid,8th,5
+Guitar,Session 1,Ismail,8,5
+Guitar,Session 1,Mohammed zahid,8,5
+Guitar,Session 1,Eeshwari,5,4.7
+Guitar,Session 1,Devi,5,4.5
+Guitar,Session 1,Ramya,5,4.2
+Guitar,Session 1,Nisha,7,4.7
+Singing,Session 1,Nuhira,8,4.9
+Guitar,Session 2,Sharath Kumar,7,5
+Science,Session 1,Leena,5,4
+Science,Session 1,Pooja5,5,4
+Guitar,Session 2,Tasmya,6,4.1
+Guitar,Session 2,Vidya B,6,3.9
+Guitar,Session 2,William,6,4.6
+Science,Session 2,Rameez,5,4
+Singing,Session 2,Eeshwari,5,4
+Guitar,Session 2,Daneil,7,4.8
+Singing,Session 2,Gowri K,5,4
+Singing,Session 2,Niveda,6,3
+Guitar,Session 2,Maruthi,7,5
+Singing,Session 2,Ganesh,6,1
+Science,Session 1,Thabitha,5,1
+Singing,Session 2,Gangamma ,6,2
+Guitar,Session 2,Sharath Kumar,7,5
+Singing,Session 2,Archana,7,5
+Science,Session 2,Ranjith kumar,5,1
+Singing,Session 2,Jamuna,7,5
+Science,Session 1,Sindhu,6,4
+Science,Session 2,Vignesh v,6,3
+Singing,Session 2,Ismail,8,4
+Guitar,Session 2,Niteesh,7,4.7
+Singing,Session 2,Jayshree,8,3
+Science,Session 1,William,6,2
+Science,Session 2,Saritha,7,4
+Singing,Session 2,Pooja7,7,5
+Science,Session 3,Sham,8,5
+Guitar,Session 2,Robin,7,4.7
+Science,Session 1,Abhishek,7,4
+Science,Session 2,Stephen Raj,7,2
+Dance,Session 3,Ramya R.,7,5
+Guitar,Session 2,Ramya M,8,5
+Science,Session 1,Anusuya devi,7,5
+Science,Session 2,Tamanna,7,4.5
+Science,Session 1,Archana,7,4
+Guitar,Session 2,Ajay,5,5
+Science,Session 2,Mohammed zahid,8,5
+Science,Session 1,Daneil,7,5
+Science,Session 2,Hussain,8,5
+Guitar,Session 2,Shivu,5,4.6
+Science,Session 1,Indumathi,7,3
+Science,Session 3,Harshitha,7,5
+Computer,Session 3,Reshma,5,3
+Science,Session 1,Jamuna,7,4
+Science,Session 3,Shivu,5,5
+Science,Session 1,Maruti,7,4
+Science,Session 3,Ganesh,6,5
+Science,Session 3,Tamanna,7,5
+Science,Session 1,Niteesh,7,4
+Guitar,Session 2,Anitha,5,4.1
+Science,Session 3,Tanvir pasha,8,4
+Science,Session 3,Nisha,7,4
+Science,Session 1,Robin,7,5
+Science,Session 1,Sharath Kumar,7,4
+Science,Session 3,Punit,7,3
+Guitar,Session 3,Mehak,6,3.5
+Dance,Session 3,Suhail,5,5
+Guitar,Session 3,Stephen Raj,7,5
+Guitar,Session 3,Anusuya devi,7,5
+Guitar,Session 3,Saritha,7,5
+Guitar,Session 3,Sania,8,3.7
+Guitar,Session 3,Abhishek,7,3.6
+Guitar,Session 3,Anitha,5,4.5
+Public speaking,Session 2,Gouri,4,5
+Public speaking,Session 1,Ajay,5,5
+Public speaking,Session 1,Anitha ,8,5
+Public speaking,Session 1,Gowri K,5,5
+Public speaking,Session 1,HarshaVardhan,5,5
+Public speaking,Session 1,Pruthvi,8,5
+Public speaking,Session 1,Rameez,5,5
+Public speaking,Session 1,Ranjith Kumar,5,5
+Public speaking,Session 1,Tanvir pasha,8,5
+Public speaking,Session 1,Tasmiya R ,8,5
+Art and Craft,,Sashi Kumar ,1,1
+Drama,,Sashi Kumar ,1,1
+Dance,,Sashi Kumar ,1,1
